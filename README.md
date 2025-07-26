@@ -4,7 +4,7 @@ Projeto desenvolvido como parte dos estudos em animações CSS, inspirado por de
 
 ## 📸 Prévia
 
-![Prévia do projeto](./assets/design/amostra)
+![Prévia do projeto](./assets/design/amostra.png)
 
 
 ## 🚀 Tecnologias Utilizadas
